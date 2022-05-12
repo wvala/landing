@@ -1,0 +1,13 @@
+.footer-icons {
+  text-align: center;
+  font-size: 50px;
+}
+
+.footer-icons a {
+  color: #372621;
+  transition: 0.3s;
+}
+
+.footer-icons a:hover {
+  color: #FAF9F6
+}
